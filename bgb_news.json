@@ -1,5 +1,28 @@
 {
-  "last_updated": "2026-11-19T02:17:42.877496",
-  "total": 0,
-  "news": []
+  "last_updated": "2026-11-19T10:54:37.689100",
+  "total": 2,
+  "news": [
+    {
+      "id": 1392419331,
+      "title": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে সাত জেলায় ৯৬ প্লাটুন বিজিবি মোতায়েন",
+      "link": "https://www.prothomalo.com/video/bangladesh/v1jnbj6z81",
+      "summary": "",
+      "published": "Thu, 19 Nov 2026 06:40:09 +0000",
+      "source": "প্রথম আলো",
+      "division": "অন্যান্য",
+      "battalion": "সাধারণ",
+      "scraped_at": "2026-11-19T10:54:32.335583"
+    },
+    {
+      "id": 8931105351,
+      "title": "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে সাত জেলায় ৯৬ প্লাটুন বিজিবি মোতায়েন",
+      "link": "https://www.prothomalo.com/video/bangladesh/iv6q4euct4",
+      "summary": "",
+      "published": "Thu, 19 Nov 2026 06:40:44 +0000",
+      "source": "প্রথম আলো",
+      "division": "অন্যান্য",
+      "battalion": "সাধারণ",
+      "scraped_at": "2026-11-19T10:54:32.335536"
+    }
+  ]
 }
