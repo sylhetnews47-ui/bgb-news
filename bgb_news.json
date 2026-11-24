@@ -1,5 +1,28 @@
 {
-  "last_updated": "2026-11-24T01:22:16.150121",
-  "total": 0,
-  "news": []
+  "last_updated": "2026-11-24T11:48:08.638823",
+  "total": 2,
+  "news": [
+    {
+      "id": 9645044636,
+      "title": "ঢাকাসহ ৮ জেলায় ১০১ প্লাটুন বিজিবি মোতায়েন",
+      "link": "https://www.prothomalo.com/video/bangladesh/dt66mdu1o0",
+      "summary": "",
+      "published": "Tue, 24 Nov 2026 08:38:30 +0000",
+      "source": "প্রথম আলো",
+      "division": "ঢাকা",
+      "battalion": "সাধারণ",
+      "scraped_at": "2026-11-24T11:48:06.880796"
+    },
+    {
+      "id": 6773186023,
+      "title": "ঢাকাসহ ৮ জেলায় ১০১ প্লাটুন বিজিবি মোতায়েন",
+      "link": "https://www.prothomalo.com/video/bangladesh/q3ap15wbie",
+      "summary": "",
+      "published": "Tue, 24 Nov 2026 08:40:55 +0000",
+      "source": "প্রথম আলো",
+      "division": "ঢাকা",
+      "battalion": "সাধারণ",
+      "scraped_at": "2026-11-24T11:48:06.880751"
+    }
+  ]
 }
